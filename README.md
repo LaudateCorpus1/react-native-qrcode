@@ -1,4 +1,8 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
+# FORKED FOR TRUSTEE WALLET support on IOS 10
+
+AS react-native-qrcode-svg not working - giving blackbox - for old phones will be this one
+
+
 
 # react-native-qrcode
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
